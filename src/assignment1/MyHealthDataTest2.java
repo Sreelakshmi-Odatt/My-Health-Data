@@ -1,10 +1,6 @@
 /*
 *Author: Sreelakshmi Odatt Venu 
-*Student Number: 041093516
-* Course: CST8284 – OOP
-* Assignment: Assignment 1
 * Date: 15/09/2023
-* Professor: Veda Vasavi Erukulla
 * Purpose: JUnit test for the class MyHealthData 
  */
 package assignment1;
