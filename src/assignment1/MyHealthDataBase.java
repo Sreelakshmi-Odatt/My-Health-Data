@@ -1,11 +1,6 @@
 /*
 * Author: Sreelakshmi Odatt Venu 
-* Student Number: 041093516
-* Course: CST8284 – OOP
-* Assignment: Assignment 1
 * Date: 15/09/2023
-* Professor: Veda Vasavi Erukulla
-* Purpose: to calculate the correct and incorrect BMI 
  */
 package assignment1;
 
