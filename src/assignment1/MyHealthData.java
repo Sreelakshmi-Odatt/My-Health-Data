@@ -1,11 +1,6 @@
 /*
 * Author: Sreelakshmi Odatt Venu 
-* Student Numebr: 041093516
-* Course: CST8284 – OOP
-* Assignment: Assignment 1
 * Date: 15/09/2023
-* Professor: Veda Vasavi Erukulla
-* Purpose: this is the MyHealthData Class 
  */
 
 package assignment1;
