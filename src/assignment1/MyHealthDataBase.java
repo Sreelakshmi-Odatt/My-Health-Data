@@ -37,7 +37,7 @@ public class MyHealthDataBase {
 	 * @return incorrectBMI returns incorrectBMI.
 	 */
 	public double incorrectBMI(double weightParam, double heightParam) {
-		return heightParam * 703 / (heightParam * heightParam);
+		return heightParam * 703 / (weightParam * heightParam);
 
 	}
 }
